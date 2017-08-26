@@ -28,6 +28,9 @@ export class HomePageComponent implements OnInit {
       {name:"Simon",grade:"一年一班",Englishscore:80,Mathscore:94,random:Math.random()},
       {name:"Alen",grade:"一年一班",Englishscore:85,Mathscore:99,random:Math.random()},
       {name:"Smith",grade:"一年一班",Englishscore:86,Mathscore:80,random:Math.random()},
+      {name:"Eava",grade:"一年一班",Englishscore:60,Mathscore:80,random:Math.random()},
+      {name:"Vender",grade:"一年一班",Englishscore:80,Mathscore:94,random:Math.random()},
+      {name:"Lucy",grade:"一年一班",Englishscore:85,Mathscore:99,random:Math.random()}
     ]
     
   }
